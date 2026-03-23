@@ -1,0 +1,13 @@
+id,date,amount,category,description
+1,2025-07-01,120.00,Food,Lunch at restaurant
+2,2025-07-03,450.50,Transport,Rickshaw + bus fare
+3,2025-07-05,1200.00,Shopping,New shirt from Bashundhara
+4,2025-07-08,350.00,Health,Pharmacy medicine
+5,2025-07-10,80.00,Food,Street food snacks
+6,2025-07-12,600.00,Entertainment,Movie tickets
+7,2025-07-15,250.00,Utilities,Mobile recharge
+8,2025-07-18,900.00,Education,Book purchase
+9,2025-07-20,175.00,Food,Dinner with friends
+10,2025-07-25,400.00,Transport,CNG for long trip
+11,2026-03-23,100.0,Food,Eggs
+12,2026-03-23,150.0,Transport,Going to old Dhaka.
